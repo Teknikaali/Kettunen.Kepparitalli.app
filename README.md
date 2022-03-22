@@ -1,1 +1,1 @@
-# Kettunen.Kepparitalli.app
+Kepparitalli.app
